@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name Sergey Sova 🦉
+My name Sergey Sova. *In Russian, my last name means Owl.* — 🦉
 
-I am currently working on [Accesso](https://github.com/accesso-app), [Howtocards](https://github.com/howtocards), and [Patronum](https://github.com/sergeysova/patronum) for [Effector](https://github.com/zerobias/effector).
+I am currently working on [Accesso](https://github.com/accesso-app), [Howtocards](https://github.com/howtocards), and [Patronum](https://github.com/sergeysova/patronum) for [Effector ☄️](https://github.com/zerobias/effector).
 
 You can read me on [Telegram](https://t.me/sergeysova) and [Twitter](https://twitter.com/_sergeysova)
 
