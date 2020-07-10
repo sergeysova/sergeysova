@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently working on [Accesso](https://github.com/accesso-app), [Howtocards](https://github.com/howtocards), and [Patronum](https://github.com/sergeysova/patronum) for [Effector](https://github.com/zerobias/effector).
+
+You can read me on [Telegram](https://t.me/sergeysova) and [Twitter](https://twitter.com/_sergeysova)
+
 <!--
 **sergeysova/sergeysova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
