@@ -4,7 +4,7 @@ My name Sergey Sova. *In Russian, my last name means Owl* — 🦉
 
 I am currently working on [Accesso](https://github.com/accesso-app), [Howtocards](https://github.com/howtocards), and [Patronum](https://github.com/effector/patronum) for [Effector ☄️](https://github.com/zerobias/effector).
 
-You can read me on [Telegram](https://t.me/sergeysova) and [Twitter](https://twitter.com/_sergeysova)
+You can read me on [Telegram](https://t.me/sergeysova) and [Twitter](https://twitter.com/_sergeysova), listen my [Podcast 🇷🇺](https://podcast.sova.dev)
 
 <!--
 **sergeysova/sergeysova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
