@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sergeysova.sergeysova)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sergeysova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeysova&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
