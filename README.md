@@ -4,7 +4,7 @@
 
 My name Sergey Sova. *In Russian, my last name means Owl* — 🦉
 
-I am currently working on [Accesso](https://github.com/accesso-app), [Howtocards](https://github.com/howtocards), and [Patronum](https://github.com/effector/patronum) for [Effector ☄️](https://github.com/effector/effector).
+I am currently working on [Accesso](https://github.com/accesso-app), [Patronum](https://github.com/effector/patronum) for [Effector ☄️](https://github.com/effector/effector), [Foliage UI](https://github.com/foliage), and [Woly UI](https://github.com/woly-ui) built on top of foliage.
 
 You can read me on [Telegram](https://t.me/sergeysova) and [Twitter](https://twitter.com/_sergeysova), listen my [Podcast 🇷🇺](https://podcast.sova.dev)
 
